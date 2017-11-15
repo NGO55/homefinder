@@ -7,7 +7,7 @@
 * 3 zones : anonyme, utilisateur, administrateur
 * 4 entités minimum, associées les unes aux autres
 
-**ENVOYER VOS NOMS ET LA DESCRIPTION DE VOTRE PROJET (ENTITES + COLONNES + ASSOCIATION)à emmanuel.ballery@gmail.com
+** ENVOYER VOS NOMS ET LA DESCRIPTION DE VOTRE PROJET (ENTITES + COLONNES + ASSOCIATION)à emmanuel.ballery@gmail.com **
 
 ## SUJET
 
