@@ -7,11 +7,15 @@
 * 3 zones : anonyme, utilisateur, administrateur
 * 4 entités minimum, associées les unes aux autres
 
-ENVOYER VOS NOMS ET LA DESCRIPTION DE VOTRE PROJET (ENTITES + COLONNES + ASSOCIATION)à emmanuel.ballery@gmail.com
+**ENVOYER VOS NOMS ET LA DESCRIPTION DE VOTRE PROJET (ENTITES + COLONNES + ASSOCIATION)à emmanuel.ballery@gmail.com
 
 ## SUJET
 
-Je vais développer une solution de vente immobilière en ligne. Des utilisateurs peuvent s'inscrire, se connecter et ajouter leurs biens immobiliers à vendre. Des administrateurs peuvent tout consulter et tout modifier.
+Nous allons développer une solution de vente immobilière en ligne.
+
+Des utilisateurs peuvent s'inscrire, se connecter et ajouter leurs biens immobiliers à vendre. 
+
+Des administrateurs peuvent tout consulter et tout modifier.
 
 ## Nos entités seront :
 
@@ -21,21 +25,21 @@ Je vais développer une solution de vente immobilière en ligne. Des utilisateur
   * Des options immobilières (Option) : id, name, uri (image)
   * Des photos (Photo) : id, name, uri (image)
 
-## Mes associations d'entités seront :
+## Nos associations d'entités seront :
   
   * Un utilisateur aura plusieurs biens immobiliers
   * Un bien immobilier aura un type de bien
   * Plusieurs biens immobiliers auront plusieurs options
   * Un bien immobilier aura plusieurs photos
 
-## Mon administrateur pourra :
+## L'administrateur pourra :
   
   * CRUD utilisateurs
   * CRUD biens immobiliers
   * CRUD options
   * CRUD photos
 
-## La structure de mon site sera la suivante :
+## La structure de notre site sera la suivante :
 
 ### /page d'accueil, dernières annonces
   * /annonces -> moteur de recherche des annonces
