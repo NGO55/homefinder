@@ -66,29 +66,29 @@ Je vais développer une solution de vente immobilière en ligne. Des utilisateur
     * /{id}/delete -> supprimer un utilisateur
       
  ### /estate
-    * / -> liste des biens
-    * /create -> créer un bien
-    * /{id} -> modifier un bien
-    * /{id}/delete -> supprimer un bien
-    * /{id}/photo -> liste des photos d'un bien
-    * /{id}/photo/create -> ajouter une photo à un bien
-    * /{id}/photo/{id}/delete -> supprimer une photo d'un bien
+   * / -> liste des biens
+   * /create -> créer un bien
+   * /{id} -> modifier un bien
+   * /{id}/delete -> supprimer un bien
+   * /{id}/photo -> liste des photos d'un bien
+   * /{id}/photo/create -> ajouter une photo à un bien
+   * /{id}/photo/{id}/delete -> supprimer une photo d'un bien
  
  ### /type
-    * / -> liste des types de bien
-    * /create -> créer un type de bien
-    * /{id} -> modifier un type de bien
-    * /{id}/delete -> supprimer un type de bien
+   * / -> liste des types de bien
+   * /create -> créer un type de bien
+   * /{id} -> modifier un type de bien
+   * /{id}/delete -> supprimer un type de bien
  
  ### /option
-    * / -> liste des options des biens
-    * /create -> créer une option de bien
-    * /{id} -> modifier une option de bien
-    * /{id}/delete -> supprimer une option de bien
+   * / -> liste des options des biens
+   * /create -> créer une option de bien
+   * /{id} -> modifier une option de bien
+   * /{id}/delete -> supprimer une option de bien
 
 ## Les évolutions possibles :
 
   * location, vente, échange
   * géolocalisation
   * recherche sur une carte
-  * -paiement en ligne
+  * paiement en ligne
